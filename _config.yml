@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       The Pivot Column
+email:       roelofs@cs.berkeley.edu
+author:      Rebecca Roelofs
+description: "A wonderful blog"
 baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
